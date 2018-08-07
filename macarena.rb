@@ -1,6 +1,8 @@
 puts "How To Do The Macarena:"
 puts ""
 
+#https://stackoverflow.com/questions/7317332/what-is-syntax-error-unexpected-tconstant-error-in-ruby
+
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
 # The first instruction is correct. 
@@ -28,3 +30,4 @@ puts "Bring your right hand up and around to the back of your head."
 
 # Step 8: FIXME
 puts "Bring your left hand up and around to the back your head."
+#Typo instead of back of your head use back your head
